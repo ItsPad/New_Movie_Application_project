@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Buyticket_footer from './components/Buyticket_footer';
-import NavbarTop from './components/navbar_top';
+import NavbarTop from './components/Navbar_top';
 // import { Search, User, Menu } from 'lucide-react'; // แนะนำให้ลง lucide-react สำหรับไอคอน (npm i lucide-react)
 
 function App() {
